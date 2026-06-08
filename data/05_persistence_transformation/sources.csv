@@ -1,0 +1,61 @@
+source_id,full_citation,type,doi_or_url
+3M2002,"3M Company. Environmental, Health, Safety and Regulatory (EHSR) Profile of Perfluorobutane Sulfonate (PFBS). 3M Technical Report, 2002.",industry_report,NA
+3M2003,"3M Company. Environmental and Health Assessment of PFOS and Related Salts. 3M Technical Report, 2003.",industry_report,NA
+OECD2002,"OECD. Hazard Assessment of Perfluorooctane Sulfonate (PFOS) and its Salts. ENV/JM/RD(2002)17/FINAL.",intergov_report,https://www.oecd.org
+OECD2018,"OECD. Toward a New Comprehensive Global Database of Per- and Polyfluoroalkyl Substances (PFASs). ENV/JM/MONO(2018)7.",intergov_report,https://www.oecd.org
+UNEP2017,"UNEP/POPS/POPRC.13. Risk profile and risk management evaluations on PFOA and related compounds. 2017–2019.",intergov_report,https://www.pops.int
+UNEP2022,"UNEP/POPS/POPRC.18. Risk profile and management evaluation: PFHxS. 2022.",intergov_report,https://www.pops.int
+EFSA2020,"EFSA CONTAM Panel. Risk to human health related to the presence of PFAS in food. EFSA Journal 2020; 18(9):6223.",peer_reviewed,doi:10.2903/j.efsa.2020.6223
+EFSA2008,"EFSA Scientific Opinion on PFOS and PFOA. EFSA Journal 2008; 653:1-131.",peer_reviewed,doi:10.2903/j.efsa.2008.653
+ECHA2018,"ECHA. Substance Information ADONA (CAS 919005-14-4). 2018.",regulatory_dossier,https://echa.europa.eu
+EPA2024,"US EPA. PFAS National Primary Drinking Water Regulation. Federal Register 89(73):32532, 2024.",regulatory_dossier,https://www.epa.gov/sdwa/pfas-npdwr
+EPI-Suite,"US EPA. EPI Suite v4.11 estimation software for physicochemical properties.",QSAR_tool,https://www.epa.gov/tsca-screening-tools
+Higgins2006,"Higgins CP, Luthy RG. Sorption of perfluorinated surfactants on sediments. Environ. Sci. Technol. 2006; 40:7251-7256.",peer_reviewed,doi:10.1021/es061000n
+Higgins2017,"Higgins CP, Field JA. Sorption and transport of PFAS in soil and groundwater. ESPI 2017.",peer_reviewed,NA
+Kaiser2005,"Kaiser MA et al. Vapor pressure measurements of PFOA. J. Chem. Eng. Data 2005; 50:1841-1843.",peer_reviewed,doi:10.1021/je050178d
+Lei2004,"Lei YD, Wania F, et al. Vapor pressures of fluorotelomer alcohols. J. Chem. Eng. Data 2004; 49:1013-1022.",peer_reviewed,doi:10.1021/je034274i
+Liu2013,"Liu J, Mejia Avendano S. Microbial degradation of polyfluoroalkyl chemicals: a review. Environment International 2013; 61:98-114.",peer_reviewed,doi:10.1016/j.envint.2013.08.022
+Wang2005,"Wang N et al. Fluorotelomer alcohol biodegradation in activated sludge. Environ. Sci. Technol. 2005; 39:7516-7528.",peer_reviewed,doi:10.1021/es0506760
+Wang2009,"Wang N et al. 6:2 FTOH biotransformation in soil. Chemosphere 2009; 75:1089-1096.",peer_reviewed,doi:10.1016/j.chemosphere.2009.01.033
+Wang2013,"Wang S et al. First report of a Chinese PFOS alternative overlooked for 30 years (F-53B). Environ. Sci. Technol. 2013; 47:10163-10170.",peer_reviewed,doi:10.1021/es401525n
+Wang2014,"Wang Z et al. Hazard assessment of fluorinated alternatives to long-chain PFASs. Environ. Int. 2014; 75:172-179.",peer_reviewed,doi:10.1016/j.envint.2014.11.013
+Wang2016,"Wang T et al. Perfluoroalkyl phosphinic acids in WWTPs and surface water. ES&T 2016.",peer_reviewed,doi:10.1021/acs.est.6b03447
+Ruan2015,"Ruan T et al. Identification and evaluation of a novel heterocyclic brominated flame retardant and PFAAs in F-53B. ES&T 2015.",peer_reviewed,doi:10.1021/acs.est.5b01346
+Hopkins2018,"Hopkins ZR et al. Recently detected drinking water contaminants: GenX and other PFEAs. AWWA Journal 2018; 110(7):13-28.",peer_reviewed,doi:10.1002/awwa.1073
+Mejia2015,"Mejia Avendano S, Liu J. Production and biotransformation of FTSAs. Chemosphere 2015; 119:1084-1090.",peer_reviewed,doi:10.1016/j.chemosphere.2014.09.067
+Lange2000,"Lange CC. The aerobic biodegradation of N-EtFOSE alcohol. 3M Project Report, 2000.",industry_report,NA
+Lange2002,"Lange CC. Biodegradation screen study for telomer-type alcohols. 3M Project Report, 2002.",industry_report,NA
+Rhoads2008,"Rhoads KR et al. Aerobic biotransformation and fate of N-EtFOSE in activated sludge. ES&T 2008; 42:2873-2878.",peer_reviewed,doi:10.1021/es702866c
+DEon2007,"DEon JC, Mabury SA. Production of PFCAs from polyfluoroalkyl phosphates (PAPs). ES&T 2007.",peer_reviewed,doi:10.1021/es070229g
+DEon2010,"DEon JC, Mabury SA. Exploring indirect sources of human exposure to PFCAs: capstone surfactants. EHP 2010.",peer_reviewed,doi:10.1289/ehp.0901596
+Liu2017,"Liu J et al. Aerobic biotransformation of 6:2 FTAB. ES&T 2017.",peer_reviewed,doi:10.1021/acs.est.7b00031
+Allred2015,"Allred BM et al. Physical and biological release of PFAS from landfill. ES&T 2015; 49:7648-7656.",peer_reviewed,doi:10.1021/acs.est.5b01040
+Kwadijk2010,"Kwadijk CJAF et al. Spatial distribution and adsorption of PFAS in Dutch sediments. Chemosphere 2010; 80:151-156.",peer_reviewed,doi:10.1016/j.chemosphere.2010.03.045
+Pan2017,"Pan Y et al. First detection of HFPO-TA in environmental waters. ES&T Letters 2017.",peer_reviewed,doi:10.1021/acs.estlett.7b00346
+Pan2018,"Pan Y et al. Bioaccumulation of HFPO-TA in fish. Chemosphere 2018.",peer_reviewed,doi:10.1016/j.chemosphere.2018.07.064
+Sun2016,"Sun M et al. Legacy and emerging PFEAs in the Cape Fear River. ES&T Letters 2016; 3(12):415-419.",peer_reviewed,doi:10.1021/acs.estlett.6b00398
+Ellis2004,"Ellis DA et al. Degradation of fluorotelomer alcohols: a likely atmospheric source of PFCAs. ES&T 2004; 38:3316-3321.",peer_reviewed,doi:10.1021/es049860w
+Wallington2006,"Wallington TJ et al. Formation of C7F15COOH and other PFCAs from atmospheric oxidation of 8:2 FTOH. ES&T 2006.",peer_reviewed,doi:10.1021/es052283j
+Hamid2020,"Hamid H et al. Fluorotelomer iodides biotransformation in activated sludge. ES&T 2020.",peer_reviewed,doi:10.1021/acs.est.0c00961
+Royer2015,"Royer LA et al. Hydrolysis of fluorotelomer ester monomers. Chemosphere 2015.",peer_reviewed,doi:10.1016/j.chemosphere.2015.03.033
+Lee2017,"Lee H, Mabury SA. Sorption and biodegradation of PFPA and PFPiA. ES&T 2017.",peer_reviewed,doi:10.1021/acs.est.7b00697
+DeSilva2011,"De Silva AO et al. Detection of PFECHS in Great Lakes biota and water. ES&T 2011.",peer_reviewed,doi:10.1021/es201640t
+DePalma2014,"DePalma SGS et al. PFECHS occurrence and partitioning. Environ. Toxicol. Chem. 2014.",peer_reviewed,NA
+Kim2014,"Kim H et al. Trifluoroacetic and difluoroacetic acid in precipitation and surface water. STOTEN 2014.",peer_reviewed,doi:10.1016/j.scitotenv.2014.04.014
+Vierke2013,"Vierke L et al. Branched vs linear PFCAs in environmental waters. ES&T 2013.",peer_reviewed,doi:10.1021/es400157t
+Yeung2013,"Yeung LWY et al. PFOS isomer-specific bioaccumulation in fish. ES&T 2013.",peer_reviewed,doi:10.1021/es401545q
+Zhang2013,"Zhang Y et al. pH-dependent partitioning of PFAAs to soils. Chemosphere 2013.",peer_reviewed,doi:10.1016/j.chemosphere.2013.06.013
+Eschauzier2010,"Eschauzier C et al. Bank filtration removal of PFAS in drinking water. ES&T 2010.",peer_reviewed,doi:10.1021/es101921y
+Buck2011,"Buck RC et al. PFAS nomenclature: terminology, classification and origins. IEAM 2011.",peer_reviewed,doi:10.1002/ieam.258
+ITRC2022,"Interstate Technology and Regulatory Council (ITRC). PFAS Technical and Regulatory Guidance Document. 2022.",intergov_report,https://pfas-1.itrcweb.org
+Cousins2020,"Cousins IT et al. The high persistence of PFAS as a planetary boundary issue. ES Process. Impacts 2020.",peer_reviewed,doi:10.1039/D0EM00355G
+Scheringer2014,"Scheringer M et al. Helsingor and Madrid Statements on PFAS. ES&T 2014.",peer_reviewed,doi:10.1021/es502260b
+Ahrens2010,"Ahrens L et al. PFAS sorption in coastal sediments. ES&T 2010.",peer_reviewed,doi:10.1021/es100447d
+Janda2019,"Janda J et al. Groundwater PFAS transport parameters. STOTEN 2019.",peer_reviewed,doi:10.1016/j.scitotenv.2019.06.300
+Bossi2008,"Bossi R et al. PFOS precursors in Greenland air. ES&T 2008.",peer_reviewed,doi:10.1021/es0708730
+Young2007,"Young CJ et al. Atmospheric PFCA formation in Arctic. ES&T 2007.",peer_reviewed,doi:10.1021/es070062k
+Plumlee2008,"Plumlee MH et al. PFAS sorption coefficients. ES&T 2008.",peer_reviewed,doi:10.1021/es801500r
+Eun2020,"Eun H et al. TFA persistence in soil microcosms. STOTEN 2020.",peer_reviewed,doi:10.1016/j.scitotenv.2020.140089
+Brusseau2018,"Brusseau ML. PFAS transport in porous media: air-water interfacial sorption. ES&T 2018.",peer_reviewed,doi:10.1021/acs.est.8b01242
+Saito2022,"Saito N et al. Emerging PFEAs in Asian rivers. STOTEN 2022.",peer_reviewed,NA
+3M2002b,"3M PFBS technical profile. 2002.",industry_report,NA

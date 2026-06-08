@@ -1,0 +1,243 @@
+species_sci,species_common,organism_group,n_records,in_taxonomy
+,A. schmidtiana,plant,1,False
+,Bird cherry (soil BCF) - Prunua padus,plant,8,False
+,C. congestus,plant,1,False
+,Celery (Greenhouse) - Apium gravolens var. dulce,plant,18,False
+,Cypress - Platycladus orientalis L.,plant,7,False
+,E. crassipes,plant,1,False
+,F. carica,plant,1,False
+,Ginkgo - Ginkgo biloba L.,plant,7,False
+,Lettuce (Field) - Lectuca sativa,plant,3,False
+,Lettuce (Greenhouse) - Lectuca sativa,plant,14,False
+,Norway spruce (groundwater BCF) - Picea abies,plant,9,False
+,Norway spruce (soil BCF) - Picea abies,plant,10,False
+,P. amphibian,plant,1,False
+,P. australis,plant,1,False
+,P. salicifolium,plant,1,False
+,P. x canescens,plant,1,False
+,Pea (Greenhouse) - Pisum sativum var. macrocarpon,plant,25,False
+,Pine - Pinus massonlana Lamb.,plant,7,False
+,Plane tree - Platanus acerifolia Ait.,plant,4,False
+,Poplar - Populus L.,plant,8,False
+,Radish (Greenhouse) - Raphanus sativus,plant,18,False
+,S. corymbosus,plant,1,False
+,Silver Birch (groundwater BCF) - Betula pendula,plant,10,False
+,Silver Birch (soil BCF) - Betula pendula,plant,10,False
+,Sophara - Sophora japonica Linn.,plant,5,False
+,Strawberry (Greenhouse) - Fragaria ananassa,plant,2,False
+,Tomato (Greenhouse),plant,2,False
+,Tomato (Greenhouse) - Lycopersicon lycopersicum,plant,22,False
+,Willow - Salix babylonica L.,plant,6,False
+,X. strumarium,plant,1,False
+,ground elder (soil BCF) - Aegopodium podagraria,plant,6,False
+,long beechfern (soil BCF) - Phegopteris connectilis,plant,6,False
+,mountain ash (soil BCF) - Sorbus amcuparia,plant,5,False
+,wild strawberry (soil BCF) - Fragaria vesca,plant,2,False
+? - More than 1 species,Amphipods (Reference),,1,False
+? - More than 1 species,Amphipods (Site),,1,False
+? - More than 1 species,Bivalves,,8,False
+? - More than 1 species,Crab,,8,False
+? - More than 1 species,"Hemigrapsus sanguineus, Sesarma pictum, Hemigrapsus penicillatus, Helice tridens tridens, and Philyra pisum",,34,False
+? - More than 1 species,Largemouth  and Smallmouth bass,,1,False
+? - More than 1 species,Meso Zoo-plankton,,2,False
+? - More than 1 species,Micro zoo-plankton,,1,False
+? - More than 1 species,Nine Fish Species,,2,False
+? - More than 1 species,Phytoplankton,,2,False
+? - More than 1 species,Plankton,,6,False
+? - More than 1 species,Several species,,4,False
+? - More than 1 species,Zooplankton,,11,False
+? - More than 1 species,phytoplankton,,7,False
+? - More than 1 species,zooplankton,,2,False
+"? - More than 1 species, incl herbivorous and predatory",Gastropods,,8,False
+? - Unknown,Mullet,,6,False
+? - Unknown,Tilapia,,48,False
+Acanthogobius flavimanus,yellowfin goby,,7,False
+Acanthogobius hasta,javelin goby,,7,True
+Acanthopagrus latus,,,4,False
+Acanthopagrus schlegelii,,,2,False
+Afrochiltonia subtenuis,Scud,,11,False
+Alisma plantagoaquatica ssp. orientale,Asian Water Plantain,,2,False
+Alosa pseudoharengus,alewife,,5,False
+Ambystoma tigrinum,Tiger Salamander,,3,False
+Ameiurus nebulosus,Brown Bullhead,,3,True
+Anaxyrus americanus,American Toad,,3,False
+Anguilla anguilla,Eel,fish,1,True
+Anguilla anguilla,European eel,fish,14,True
+Anguilla anguilla,eel,fish,2,True
+Anguilla rostrata,Anguilla rostrate,fish,10,True
+Apis mellifera,Honey Bee,,1,False
+Arabidopsis thaliana,Mouse-Ear Cress,,4,False
+Argyrops bleekeri,,,1,False
+Argyrosomus regius,Meagre,,7,False
+Baumea articulata,Jointed Twig-Rush,,30,False
+Bidyanus bidyanus,Silver perch,,4,True
+Brassica juncea,Brown Mustard,,20,False
+Brassica oleracea,Cabbage,,3,False
+Caenorhabditis elegans,Nematode,,19,False
+Carassius auratus,,mammal,5,True
+Carassius auratus,Crucian carp,mammal,33,True
+Carassius auratus,Goldfish,mammal,26,True
+Carassius carassius,Crucian Carp,,54,True
+Carassius carassius,Crucian carp,,31,True
+Cepaea sp.,Land Snail,,4,False
+Ceratophyllum demersum,hornwort,mammal,6,False
+Cerithidea rhizophorarum,sea snail,,7,False
+Channa argus,Northern Snakehead Fish,,5,True
+Channa argus,Northern snakehead,,8,True
+Channa argus,Snakehead,,3,True
+Chlorella sp.,Green Algae,algae,9,False
+Clarias fuscus,Leather catfish,,1,False
+Clarias gariepinus,Clarias gariepinus,,3,True
+Clupea harengus,Herring,,14,True
+Copepoda,Copepods,invertebrate,2,False
+Copepoda,copepod,invertebrate,10,False
+"Copepoda, ind.",Copepods,invertebrate,6,False
+Cottus cognatus,sculpin,,2,False
+Cottus cognatus,slimy sculpin,,3,False
+Crangon crangon,Brown shrimp,,8,True
+Crangon crangon,brown shrimp,,9,True
+Crassostrea gigas,Oyster,,8,False
+Crassostrea gigas,Pacific Oyster,,24,False
+Crassostrea gigas,Pacific oyster,,12,False
+Crassostrea virginica,American Or Virginia Oyster,,2,False
+Ctenopharyngodon idella,Grass Carp,,12,True
+Cucurbita maxima,Winter Squash,,1,False
+Cucurbita pepo,Vegetable Marrow,,4,False
+Cyprinus carpio,Carp,fish,2,True
+Cyprinus carpio,Common Carp,fish,203,True
+Cyprinus carpio,Common carp,fish,25,True
+Cyprinus carpio,yearling carp,fish,5,True
+Danio rerio,Zebra Danio,fish,104,True
+Danio rerio,Zebrafish,fish,117,True
+Daphnia magna,Daphnia,invertebrate,6,True
+Daphnia magna,Water Flea,invertebrate,18,True
+Dasyatis zugei,,,4,False
+Daucus carota ssp. sativus,Carrot,,24,False
+Dicentrarchus labrax,Common seabass,,8,True
+Dicentrarchus punctatus,Spotted seabass,,8,False
+Diporeia hoyi,diporeia,,5,False
+Dorosoma cepedianum,Dorosoma cepedianum,,10,True
+Drosophila melanogaster,Fruit Fly,,2,False
+Eisenia andrei,Earthworm,invertebrate,1,False
+Eisenia fetida,Earthworm,invertebrate,12,False
+Engraulis encrasicolus,Anchovy,,8,False
+Equulites rivulatus,,,4,False
+Eriocheir sinensis,Crab,,6,True
+Erythroculter dabryi,,,5,False
+Esox lucius,Northern Pike,,3,True
+Esox lucius,Pike,,2,True
+Esox lucius,northern pike,,1,True
+Esox lucius,pike,,1,True
+Fundulus diaphanus,Fundulus diaphanous,,10,True
+Fundulus heteroclitus,Fundulus heteroclitus,,10,True
+Gallus gallus,Chicken,,2,False
+Gammarus spp.,Gammarus,invertebrate,5,False
+Gammarus spp.,Gammarus spp.,invertebrate,3,False
+Gerres japonicus,,,4,False
+Gerres limbatus,,,3,False
+Glycine max,Soybean,,2,False
+Gobio gobio,River Goby,fish,2,True
+Gobiocypris rarus,Chinese Rare Minnow,fish,2,True
+Grammoplites scaber,,,3,False
+Hybognathus regius,Hybognathus regius,,10,False
+Hypophthalmichthys molitrix,,,7,True
+Hypophthalmichthys molitrix,Silver Carp,,13,True
+Ictalurus punctatus,Channel Catﬁsh,fish,3,True
+Ipomoea aquatica,Swamp Morningglory,,1,False
+Johnius fasciatus,,,5,False
+Juncus krausii,Sea Rush,,36,False
+Konosirus punctatus,,,3,False
+Labeobarbus gorguari,Labeobarbus gorguari,,4,False
+Labeobarbus intermedius,Labeobarbus intermedius,,4,False
+Labeobarbus megastoma,Labeobarbus megastoma,,3,False
+Lactuca sativa,Lettuce,,105,False
+Lactuca sativa var. crispa,Leaf Lettuce,,27,False
+Lactuca sativa var. longifolia,Romaine Lettuce,,52,False
+Lampsilis siliquoidea,Lamp-Mussel,,2,False
+Larus argentatus,Herring Gulls,,1,False
+Lateolabrax maculatus,,,2,False
+Lateolabrax sp.,sea bass,,7,False
+Lemna minor,Duckweed,,1,False
+Lepidopus caudatus,Silver scabbardfish,,2,False
+Lepomis gibbosus,Pumpkinseed,fish,3,True
+Leuciscus Cephalus,Chub,,1,False
+Lithobates pipiens,Leopard Frog,,18,False
+Liza ramada,Mullet,,6,False
+Lumbricus terrestris,Earthworm,invertebrate,3,False
+Luxilus cornutus,Common Shiner,,17,True
+Macrobrachium nipponense,Shrimp,,6,True
+Mastacembelus armatus,Tire Track Eel,,5,False
+Medicago sativa,Alfalfa,,35,False
+Menidia menidia,Menidia menidia,,10,True
+Micropogonias furnieri,whitemouth croaker,,2,False
+Micropterus dolomieu,Smallmouth Bass,,3,True
+Micropterus salmoides,Largemouth Bass,,3,True
+Misgurnus anguillicaudatus,Loach,,6,True
+Mixed spp,Plankton,,10,False
+Morone americana,Morone americana,,20,True
+Morone saxatilis,Morone saxatilis,,20,True
+Mugil cephalus,Grey mullet,,3,True
+Mugil cephalus,Sea mullet,,5,True
+Mugil cephalus,grey mullet,,7,True
+Mugil liza,mullet,,2,True
+Mysidacea,Mysids,,17,False
+Mysis relicta,mysis,,4,False
+Mytilus galloprovincialis,Mediterranean Mussel,,6,False
+Nematalosa nasus,,,3,False
+Neogobius melanostomus,Round goby,,1,True
+Neosalanx tangkahkeii,Chinese iceﬁsh,,13,False
+Nicotiana benthamiana,Round-leaved Native Tobacco,,4,False
+Ocypode stimpsoni,Crab,,4,False
+Oncorhynchus mykiss,Juvenile Rainbow trout,fish,21,True
+Oncorhynchus mykiss,Rainbow Trout,fish,28,True
+Oncorhynchus mykiss,rainbow trout,fish,1,True
+Oreochromis niloticus,Oreochromis niloticus,,4,True
+Oryzias latipes,Medaka (killifish),,5,True
+Oryzias melastigma,Indian Medaka,,7,False
+Osmerus mordax,rainbow smelt,,5,True
+Palaemon longirostris,White shrimp,,8,False
+Palaemon longirostris,white shrimp,,9,False
+Paralichthys olivaceus,"Hirame, Flounder",,4,True
+Penaeus semisulcatus,Prawn,,2,True
+Perca flavescens,Yellow Perch,,3,True
+Perca fluviatilis,European perch,,36,True
+Perca fluviatilis,Perch,,2,True
+Perca fluviatilis,perch,,3,True
+Perna perna,brown mussel,,2,False
+Perna viridis,Green Mussel,,4,False
+Phalacrocorax carbo ssp. sinensis,Great Cormorant,,1,False
+Phragmites australis,Grass,,30,False
+Pimephales promelas,Fathead Minnow,fish,9,True
+Poecilia reticulata,Guppy,,1,True
+Pomatoschistus spp.,Goby,,6,False
+Pomoxis annularis,White Crappie,,3,True
+Pomoxis nigromaculatus,Black Crappie,,3,True
+Portunus trituberculatus,Swimming crab,,4,True
+Pseudohemiculter dispar,,,6,False
+Rhabdosargus sarba,,,2,False
+Ruditapes philippinarum,Short-Necked Clam,,1,False
+Saccostrea commercialis,Sydney rock oyster,,1,False
+Salvelinus namaycush,Lake Trout,,53,True
+Salvinia natans,floating fern,,6,False
+Sander vitreus,Walleye,,5,True
+Sardinella zunasi,,,4,False
+Scatophagus argus,,,2,False
+Scenedesmus acutus var. acutus,Green Algae,algae,3,False
+Sebastes schlegelil,Korean rockfish,,1,False
+Seriola quinqueradiata,Japanese amberjack,,3,True
+Siniperca chuatsi,,,5,False
+Siniperca scherzeri,Mandarin fish,,7,False
+Solanum lycopersicum,Garden Tomato,,10,False
+Sphyraena jello,,,5,False
+Sprattus sprattus,Sprat,mammal,20,False
+Squalius cephalus,European chub,,7,True
+Takifugu alboplumbeus,,,5,True
+Thallus laminariae,Kelp,,6,False
+Thryssa mysiax,,,5,False
+Trachemys scripta elegans and Chinemys reeevesii,Turtles,,13,False
+Trachinotus ovaus,,,4,False
+Triticum aestivum,Bread Wheat,,11,False
+Upeaneus japonicus,,,3,False
+Vigna radiata,Mungbean,,2,False
+Viviparus,River Snail,,6,False
+Zea mays,Corn,,1,False
