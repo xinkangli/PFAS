@@ -1,0 +1,7 @@
+endpoint,comparator,status,compounds,studies,delta,low,high,valid_replicates
+BAF,structure_context,product multinomial sensitivity,17,5,-0.04433268900793506,-0.10449583595201445,-0.00215569761427224,4998.0
+BAF,shuffled_auxiliary_labels,product multinomial sensitivity,17,5,-0.10942490871205825,-0.22468098172921774,0.024317518718494944,4998.0
+BAF,extra_trees_structure_context,product multinomial sensitivity,17,5,-0.04565607453926512,-0.2273277574446768,0.1170758804366428,4998.0
+BCF,structure_context,"one source, joint interval not estimable",12,1,,,,
+BCF,shuffled_auxiliary_labels,"one source, joint interval not estimable",12,1,,,,
+BCF,extra_trees_structure_context,"one source, joint interval not estimable",12,1,,,,

@@ -1,0 +1,16 @@
+{
+  "calibration": "9 calibration compounds, up to 4 test compounds, remaining source-qualified compounds train; grouping not records",
+  "levels": [
+    0.5,
+    0.8,
+    0.9,
+    0.95
+  ],
+  "nonvacuity": "finite-sample rank above available calibration groups yields infinite radius, retained explicitly",
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "no_tuning_on_test": true
+}

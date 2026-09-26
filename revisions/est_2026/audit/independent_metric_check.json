@@ -1,0 +1,563 @@
+[
+  {
+    "file": "results_final_ensemble_predictions.csv",
+    "group": [
+      "primary216",
+      "chemical",
+      "extra_trees_structure_context",
+      "BAF"
+    ],
+    "rows": 147,
+    "maximum_metric_error": 1.1102230246251565e-16
+  },
+  {
+    "file": "results_final_ensemble_predictions.csv",
+    "group": [
+      "primary216",
+      "chemical",
+      "extra_trees_structure_context",
+      "BCF"
+    ],
+    "rows": 69,
+    "maximum_metric_error": 1.6653345369377348e-16
+  },
+  {
+    "file": "results_final_ensemble_predictions.csv",
+    "group": [
+      "primary216",
+      "chemical",
+      "full_multitask",
+      "BAF"
+    ],
+    "rows": 147,
+    "maximum_metric_error": 1.1102230246251565e-16
+  },
+  {
+    "file": "results_final_ensemble_predictions.csv",
+    "group": [
+      "primary216",
+      "chemical",
+      "full_multitask",
+      "BCF"
+    ],
+    "rows": 69,
+    "maximum_metric_error": 5.551115123125783e-17
+  },
+  {
+    "file": "results_final_ensemble_predictions.csv",
+    "group": [
+      "primary216",
+      "chemical",
+      "full_single_task",
+      "BAF"
+    ],
+    "rows": 147,
+    "maximum_metric_error": 5.551115123125783e-17
+  },
+  {
+    "file": "results_final_ensemble_predictions.csv",
+    "group": [
+      "primary216",
+      "chemical",
+      "full_single_task",
+      "BCF"
+    ],
+    "rows": 69,
+    "maximum_metric_error": 1.1102230246251565e-16
+  },
+  {
+    "file": "results_final_ensemble_predictions.csv",
+    "group": [
+      "primary216",
+      "chemical",
+      "hist_gradient_structure_context",
+      "BAF"
+    ],
+    "rows": 147,
+    "maximum_metric_error": 1.1102230246251565e-16
+  },
+  {
+    "file": "results_final_ensemble_predictions.csv",
+    "group": [
+      "primary216",
+      "chemical",
+      "hist_gradient_structure_context",
+      "BCF"
+    ],
+    "rows": 69,
+    "maximum_metric_error": 0.0
+  },
+  {
+    "file": "results_final_ensemble_predictions.csv",
+    "group": [
+      "primary216",
+      "chemical",
+      "nearest_chemical_context",
+      "BAF"
+    ],
+    "rows": 147,
+    "maximum_metric_error": 0.0
+  },
+  {
+    "file": "results_final_ensemble_predictions.csv",
+    "group": [
+      "primary216",
+      "chemical",
+      "nearest_chemical_context",
+      "BCF"
+    ],
+    "rows": 69,
+    "maximum_metric_error": 9.71445146547012e-17
+  },
+  {
+    "file": "results_final_ensemble_predictions.csv",
+    "group": [
+      "primary216",
+      "chemical",
+      "shuffled_auxiliary_labels",
+      "BAF"
+    ],
+    "rows": 147,
+    "maximum_metric_error": 5.551115123125783e-17
+  },
+  {
+    "file": "results_final_ensemble_predictions.csv",
+    "group": [
+      "primary216",
+      "chemical",
+      "shuffled_auxiliary_labels",
+      "BCF"
+    ],
+    "rows": 69,
+    "maximum_metric_error": 5.551115123125783e-17
+  },
+  {
+    "file": "results_final_ensemble_predictions.csv",
+    "group": [
+      "primary216",
+      "chemical",
+      "simple_graph_context",
+      "BAF"
+    ],
+    "rows": 147,
+    "maximum_metric_error": 5.551115123125783e-17
+  },
+  {
+    "file": "results_final_ensemble_predictions.csv",
+    "group": [
+      "primary216",
+      "chemical",
+      "simple_graph_context",
+      "BCF"
+    ],
+    "rows": 69,
+    "maximum_metric_error": 1.1102230246251565e-16
+  },
+  {
+    "file": "results_final_ensemble_predictions.csv",
+    "group": [
+      "primary216",
+      "chemical",
+      "structure_context",
+      "BAF"
+    ],
+    "rows": 147,
+    "maximum_metric_error": 1.1102230246251565e-16
+  },
+  {
+    "file": "results_final_ensemble_predictions.csv",
+    "group": [
+      "primary216",
+      "chemical",
+      "structure_context",
+      "BCF"
+    ],
+    "rows": 69,
+    "maximum_metric_error": 1.6653345369377348e-16
+  },
+  {
+    "file": "results_final_ensemble_predictions.csv",
+    "group": [
+      "primary216",
+      "chemical",
+      "transport_context",
+      "BAF"
+    ],
+    "rows": 147,
+    "maximum_metric_error": 1.1102230246251565e-16
+  },
+  {
+    "file": "results_final_ensemble_predictions.csv",
+    "group": [
+      "primary216",
+      "chemical",
+      "transport_context",
+      "BCF"
+    ],
+    "rows": 69,
+    "maximum_metric_error": 0.0
+  },
+  {
+    "file": "results_final_ensemble_predictions.csv",
+    "group": [
+      "primary216",
+      "study",
+      "extra_trees_structure_context",
+      "BAF"
+    ],
+    "rows": 147,
+    "maximum_metric_error": 1.1102230246251565e-16
+  },
+  {
+    "file": "results_final_ensemble_predictions.csv",
+    "group": [
+      "primary216",
+      "study",
+      "full_multitask",
+      "BAF"
+    ],
+    "rows": 147,
+    "maximum_metric_error": 1.1102230246251565e-16
+  },
+  {
+    "file": "results_final_ensemble_predictions.csv",
+    "group": [
+      "primary216",
+      "study",
+      "full_single_task",
+      "BAF"
+    ],
+    "rows": 147,
+    "maximum_metric_error": 0.0
+  },
+  {
+    "file": "results_final_ensemble_predictions.csv",
+    "group": [
+      "primary216",
+      "study",
+      "hist_gradient_structure_context",
+      "BAF"
+    ],
+    "rows": 147,
+    "maximum_metric_error": 0.0
+  },
+  {
+    "file": "results_final_ensemble_predictions.csv",
+    "group": [
+      "primary216",
+      "study",
+      "nearest_chemical_context",
+      "BAF"
+    ],
+    "rows": 147,
+    "maximum_metric_error": 2.220446049250313e-16
+  },
+  {
+    "file": "results_final_ensemble_predictions.csv",
+    "group": [
+      "primary216",
+      "study",
+      "shuffled_auxiliary_labels",
+      "BAF"
+    ],
+    "rows": 147,
+    "maximum_metric_error": 1.1102230246251565e-16
+  },
+  {
+    "file": "results_final_ensemble_predictions.csv",
+    "group": [
+      "primary216",
+      "study",
+      "simple_graph_context",
+      "BAF"
+    ],
+    "rows": 147,
+    "maximum_metric_error": 0.0
+  },
+  {
+    "file": "results_final_ensemble_predictions.csv",
+    "group": [
+      "primary216",
+      "study",
+      "structure_context",
+      "BAF"
+    ],
+    "rows": 147,
+    "maximum_metric_error": 0.0
+  },
+  {
+    "file": "results_final_ensemble_predictions.csv",
+    "group": [
+      "primary216",
+      "study",
+      "transport_context",
+      "BAF"
+    ],
+    "rows": 147,
+    "maximum_metric_error": 8.326672684688674e-17
+  },
+  {
+    "file": "external_ensemble_predictions.csv",
+    "group": [
+      "source_transfer",
+      "Hayman_whole_body_BCF",
+      "extra_trees",
+      "BCF"
+    ],
+    "rows": 27,
+    "maximum_metric_error": 1.3877787807814457e-17
+  },
+  {
+    "file": "external_ensemble_predictions.csv",
+    "group": [
+      "source_transfer",
+      "Hayman_whole_body_BCF",
+      "full_multitask",
+      "BCF"
+    ],
+    "rows": 27,
+    "maximum_metric_error": 2.220446049250313e-16
+  },
+  {
+    "file": "external_ensemble_predictions.csv",
+    "group": [
+      "source_transfer",
+      "Hayman_whole_body_BCF",
+      "structure_context",
+      "BCF"
+    ],
+    "rows": 27,
+    "maximum_metric_error": 5.551115123125783e-17
+  },
+  {
+    "file": "external_ensemble_predictions.csv",
+    "group": [
+      "source_transfer",
+      "Pickard2024",
+      "extra_trees",
+      "BAF"
+    ],
+    "rows": 181,
+    "maximum_metric_error": 1.1102230246251565e-16
+  },
+  {
+    "file": "external_ensemble_predictions.csv",
+    "group": [
+      "source_transfer",
+      "Pickard2024",
+      "full_multitask",
+      "BAF"
+    ],
+    "rows": 181,
+    "maximum_metric_error": 1.1102230246251565e-16
+  },
+  {
+    "file": "external_ensemble_predictions.csv",
+    "group": [
+      "source_transfer",
+      "Pickard2024",
+      "structure_context",
+      "BAF"
+    ],
+    "rows": 181,
+    "maximum_metric_error": 1.3877787807814457e-17
+  },
+  {
+    "file": "external_ensemble_predictions.csv",
+    "group": [
+      "source_transfer",
+      "Sims2025",
+      "extra_trees",
+      "BAF"
+    ],
+    "rows": 57,
+    "maximum_metric_error": 2.220446049250313e-16
+  },
+  {
+    "file": "external_ensemble_predictions.csv",
+    "group": [
+      "source_transfer",
+      "Sims2025",
+      "full_multitask",
+      "BAF"
+    ],
+    "rows": 57,
+    "maximum_metric_error": 4.440892098500626e-16
+  },
+  {
+    "file": "external_ensemble_predictions.csv",
+    "group": [
+      "source_transfer",
+      "Sims2025",
+      "structure_context",
+      "BAF"
+    ],
+    "rows": 57,
+    "maximum_metric_error": 0.0
+  },
+  {
+    "file": "external_ensemble_predictions.csv",
+    "group": [
+      "source_transfer",
+      "Yao_liver_BCF",
+      "extra_trees",
+      "BCF"
+    ],
+    "rows": 18,
+    "maximum_metric_error": 0.0
+  },
+  {
+    "file": "external_ensemble_predictions.csv",
+    "group": [
+      "source_transfer",
+      "Yao_liver_BCF",
+      "full_multitask",
+      "BCF"
+    ],
+    "rows": 18,
+    "maximum_metric_error": 1.1102230246251565e-16
+  },
+  {
+    "file": "external_ensemble_predictions.csv",
+    "group": [
+      "source_transfer",
+      "Yao_liver_BCF",
+      "structure_context",
+      "BCF"
+    ],
+    "rows": 18,
+    "maximum_metric_error": 1.1102230246251565e-16
+  },
+  {
+    "file": "external_ensemble_predictions.csv",
+    "group": [
+      "strict_chemical_out",
+      "Hayman_whole_body_BCF",
+      "extra_trees",
+      "BCF"
+    ],
+    "rows": 27,
+    "maximum_metric_error": 6.938893903907228e-17
+  },
+  {
+    "file": "external_ensemble_predictions.csv",
+    "group": [
+      "strict_chemical_out",
+      "Hayman_whole_body_BCF",
+      "full_multitask",
+      "BCF"
+    ],
+    "rows": 27,
+    "maximum_metric_error": 2.220446049250313e-16
+  },
+  {
+    "file": "external_ensemble_predictions.csv",
+    "group": [
+      "strict_chemical_out",
+      "Hayman_whole_body_BCF",
+      "structure_context",
+      "BCF"
+    ],
+    "rows": 27,
+    "maximum_metric_error": 2.220446049250313e-16
+  },
+  {
+    "file": "external_ensemble_predictions.csv",
+    "group": [
+      "strict_chemical_out",
+      "Pickard2024",
+      "extra_trees",
+      "BAF"
+    ],
+    "rows": 181,
+    "maximum_metric_error": 2.220446049250313e-16
+  },
+  {
+    "file": "external_ensemble_predictions.csv",
+    "group": [
+      "strict_chemical_out",
+      "Pickard2024",
+      "full_multitask",
+      "BAF"
+    ],
+    "rows": 181,
+    "maximum_metric_error": 0.0
+  },
+  {
+    "file": "external_ensemble_predictions.csv",
+    "group": [
+      "strict_chemical_out",
+      "Pickard2024",
+      "structure_context",
+      "BAF"
+    ],
+    "rows": 181,
+    "maximum_metric_error": 2.914335439641036e-16
+  },
+  {
+    "file": "external_ensemble_predictions.csv",
+    "group": [
+      "strict_chemical_out",
+      "Sims2025",
+      "extra_trees",
+      "BAF"
+    ],
+    "rows": 57,
+    "maximum_metric_error": 0.0
+  },
+  {
+    "file": "external_ensemble_predictions.csv",
+    "group": [
+      "strict_chemical_out",
+      "Sims2025",
+      "full_multitask",
+      "BAF"
+    ],
+    "rows": 57,
+    "maximum_metric_error": 2.220446049250313e-16
+  },
+  {
+    "file": "external_ensemble_predictions.csv",
+    "group": [
+      "strict_chemical_out",
+      "Sims2025",
+      "structure_context",
+      "BAF"
+    ],
+    "rows": 57,
+    "maximum_metric_error": 0.0
+  },
+  {
+    "file": "external_ensemble_predictions.csv",
+    "group": [
+      "strict_chemical_out",
+      "Yao_liver_BCF",
+      "extra_trees",
+      "BCF"
+    ],
+    "rows": 18,
+    "maximum_metric_error": 1.1102230246251565e-16
+  },
+  {
+    "file": "external_ensemble_predictions.csv",
+    "group": [
+      "strict_chemical_out",
+      "Yao_liver_BCF",
+      "full_multitask",
+      "BCF"
+    ],
+    "rows": 18,
+    "maximum_metric_error": 2.0816681711721685e-17
+  },
+  {
+    "file": "external_ensemble_predictions.csv",
+    "group": [
+      "strict_chemical_out",
+      "Yao_liver_BCF",
+      "structure_context",
+      "BCF"
+    ],
+    "rows": 18,
+    "maximum_metric_error": 4.996003610813204e-16
+  }
+]

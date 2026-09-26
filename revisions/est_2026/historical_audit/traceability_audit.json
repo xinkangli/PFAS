@@ -1,0 +1,430 @@
+{
+  "bio_records": 2404,
+  "completeness": [
+    {
+      "field": "doi_candidate",
+      "available_records": 0,
+      "missing_records": 2404,
+      "verified_against_original": false
+    },
+    {
+      "field": "original_page_or_table_candidate",
+      "available_records": 1548,
+      "missing_records": 856,
+      "verified_against_original": false
+    },
+    {
+      "field": "cas",
+      "available_records": 2404,
+      "missing_records": 0,
+      "verified_against_original": false
+    },
+    {
+      "field": "SMILES",
+      "available_records": 2343,
+      "missing_records": 61,
+      "verified_against_original": false
+    },
+    {
+      "field": "raw_value",
+      "available_records": 2333,
+      "missing_records": 71,
+      "verified_against_original": false
+    },
+    {
+      "field": "raw_units",
+      "available_records": 856,
+      "missing_records": 1548,
+      "verified_against_original": false
+    },
+    {
+      "field": "endpoint_type",
+      "available_records": 2404,
+      "missing_records": 0,
+      "verified_against_original": false
+    },
+    {
+      "field": "species_sci",
+      "available_records": 2180,
+      "missing_records": 224,
+      "verified_against_original": false
+    },
+    {
+      "field": "tissue",
+      "available_records": 2354,
+      "missing_records": 50,
+      "verified_against_original": false
+    },
+    {
+      "field": "exposure_route",
+      "available_records": 1080,
+      "missing_records": 1324,
+      "verified_against_original": false
+    },
+    {
+      "field": "exposure_days",
+      "available_records": 816,
+      "missing_records": 1588,
+      "verified_against_original": false
+    },
+    {
+      "field": "temperature_c",
+      "available_records": 0,
+      "missing_records": 2404,
+      "verified_against_original": false
+    },
+    {
+      "field": "test_concentration",
+      "available_records": 856,
+      "missing_records": 1548,
+      "verified_against_original": false
+    },
+    {
+      "field": "citation",
+      "available_records": 2404,
+      "missing_records": 0,
+      "verified_against_original": false
+    },
+    {
+      "field": "source_url",
+      "available_records": 2404,
+      "missing_records": 0,
+      "verified_against_original": false
+    },
+    {
+      "field": "ecotox_ref",
+      "available_records": 856,
+      "missing_records": 1548,
+      "verified_against_original": false
+    },
+    {
+      "field": "experiment_id",
+      "available_records": 856,
+      "missing_records": 1548,
+      "verified_against_original": false
+    },
+    {
+      "field": "fetched_at",
+      "available_records": 2404,
+      "missing_records": 0,
+      "verified_against_original": false
+    }
+  ],
+  "flow": [
+    {
+      "stage": "structure_available",
+      "input_records": 2404,
+      "excluded_records": 61,
+      "remaining_records": 2343,
+      "rule_type": "provisional_not_final_curation"
+    },
+    {
+      "stage": "positive_quantitative_value",
+      "input_records": 2343,
+      "excluded_records": 0,
+      "remaining_records": 2343,
+      "rule_type": "provisional_not_final_curation"
+    },
+    {
+      "stage": "unit_resolved",
+      "input_records": 2343,
+      "excluded_records": 418,
+      "remaining_records": 1925,
+      "rule_type": "provisional_not_final_curation"
+    },
+    {
+      "stage": "endpoint_supported",
+      "input_records": 1925,
+      "excluded_records": 0,
+      "remaining_records": 1925,
+      "rule_type": "provisional_not_final_curation"
+    },
+    {
+      "stage": "wet_basis_explicit",
+      "input_records": 1925,
+      "excluded_records": 716,
+      "remaining_records": 1209,
+      "rule_type": "provisional_not_final_curation"
+    },
+    {
+      "stage": "detection_note_review",
+      "input_records": 1209,
+      "excluded_records": 131,
+      "remaining_records": 1078,
+      "rule_type": "provisional_not_final_curation"
+    }
+  ],
+  "aggregation": {
+    "policy": "no chemical-wide averaging; full metadata required even to nominate within-condition groups",
+    "complete_condition_records": 0,
+    "multi_record_candidate_groups": 0,
+    "records_averaged_for_training": 0,
+    "compounds_averaged_for_training": 0
+  },
+  "missing_structure_names": {
+    "Br-PFOS": 21,
+    "6:2 FTSA": 8,
+    "PFTrDA": 6,
+    "3+4+5m-PFOS": 6,
+    "6m-PFOS": 6,
+    "1m-PFOS": 5,
+    "HFPO-TA": 3,
+    "Br-FOSA": 3,
+    "4:2 Cl-PFESA": 2,
+    "PFPCPeS": 1
+  },
+  "inventory_sources": [
+    {
+      "file": "code/data/01_structure/qd_unique_smiles.csv",
+      "records": 1270,
+      "encoding": "utf-8-sig",
+      "sha256": "122a309094852d3cb96a1d5b11ed85911a04998cd6f05400f0abffd4af3016f9"
+    },
+    {
+      "file": "code/data/01_structure/OECD_PFAS_list_2019.csv",
+      "records": 4725,
+      "encoding": "cp1252",
+      "sha256": "074c3cc97b20fbda1233f7deb914eb4a0fe51be2bdb5f3960ec25b7983e45ef6"
+    },
+    {
+      "file": "code/data/01_structure/PubChem_PFAS_properties.csv",
+      "records": 38962,
+      "encoding": "utf-8-sig",
+      "sha256": "ff540f10ad2e224a075012d4d6d61a900a54f337e6277888930f57e91ce28fa8"
+    },
+    {
+      "file": "code/data/01_structure/NORMAN_susdat_2025-06-03.csv",
+      "records": 120541,
+      "encoding": "utf-8-sig",
+      "sha256": "8b8c4b43e900b752c2e7ba0aa7adb3454617205034f9da5baffdf41250decda9"
+    },
+    {
+      "file": "code/data/01_structure/EPA_CompTox_PFAS_Master_2026-05-16.csv",
+      "records": 12039,
+      "encoding": "utf-8-sig",
+      "sha256": "63fdf62d6c8e021a1e6bdcaa4dd5f15ac2a1a078d539fe453db869a0dca558f0"
+    },
+    {
+      "file": "code/data/01_structure/qd_smiles_F_stats_per_mol.csv",
+      "records": 1270,
+      "encoding": "utf-8-sig",
+      "sha256": "459d9aca8000fa041b3cffe3fb1a4a2d7da8df148d2f0067f0d0c7e823cf8cde"
+    }
+  ],
+  "literature_tables": [
+    {
+      "file": "keep_for_extraction.csv",
+      "records": 17,
+      "columns": [
+        "category",
+        "n_records",
+        "n_key_journals",
+        "n_OA_or_supp",
+        "file",
+        "_source",
+        "query",
+        "openalex_id",
+        "doi",
+        "title",
+        "year",
+        "journal",
+        "publisher",
+        "open_access",
+        "oa_url",
+        "cited_by_count",
+        "authors",
+        "n_authors",
+        "first_author_country",
+        "all_countries",
+        "abstract",
+        "concepts",
+        "supplementary_url",
+        "landing_page",
+        "pdf_url",
+        "citations",
+        "supplement_link",
+        "priority_score",
+        "score_tags",
+        "doi_clean",
+        "rank",
+        "is_pfas_specific",
+        "has_trophic_level",
+        "has_concentration_matrix",
+        "keep_for_extraction",
+        "exclude_reason"
+      ]
+    },
+    {
+      "file": "top100_unique.csv",
+      "records": 100,
+      "columns": [
+        "category",
+        "n_records",
+        "n_key_journals",
+        "n_OA_or_supp",
+        "file",
+        "_source",
+        "query",
+        "openalex_id",
+        "doi",
+        "title",
+        "year",
+        "journal",
+        "publisher",
+        "open_access",
+        "oa_url",
+        "cited_by_count",
+        "authors",
+        "n_authors",
+        "first_author_country",
+        "all_countries",
+        "abstract",
+        "concepts",
+        "supplementary_url",
+        "landing_page",
+        "pdf_url",
+        "citations",
+        "supplement_link",
+        "priority_score",
+        "score_tags",
+        "doi_clean",
+        "rank",
+        "is_pfas_specific",
+        "has_trophic_level",
+        "has_concentration_matrix",
+        "keep_for_extraction",
+        "exclude_reason"
+      ]
+    },
+    {
+      "file": "excluded_top100.csv",
+      "records": 83,
+      "columns": [
+        "category",
+        "n_records",
+        "n_key_journals",
+        "n_OA_or_supp",
+        "file",
+        "_source",
+        "query",
+        "openalex_id",
+        "doi",
+        "title",
+        "year",
+        "journal",
+        "publisher",
+        "open_access",
+        "oa_url",
+        "cited_by_count",
+        "authors",
+        "n_authors",
+        "first_author_country",
+        "all_countries",
+        "abstract",
+        "concepts",
+        "supplementary_url",
+        "landing_page",
+        "pdf_url",
+        "citations",
+        "supplement_link",
+        "priority_score",
+        "score_tags",
+        "doi_clean",
+        "rank",
+        "is_pfas_specific",
+        "has_trophic_level",
+        "has_concentration_matrix",
+        "keep_for_extraction",
+        "exclude_reason"
+      ]
+    },
+    {
+      "file": "all_dedup_ranked.csv",
+      "records": 4083,
+      "columns": [
+        "category",
+        "n_records",
+        "n_key_journals",
+        "n_OA_or_supp",
+        "file",
+        "_source",
+        "query",
+        "openalex_id",
+        "doi",
+        "title",
+        "year",
+        "journal",
+        "publisher",
+        "open_access",
+        "oa_url",
+        "cited_by_count",
+        "authors",
+        "n_authors",
+        "first_author_country",
+        "all_countries",
+        "abstract",
+        "concepts",
+        "supplementary_url",
+        "landing_page",
+        "pdf_url",
+        "citations",
+        "supplement_link",
+        "priority_score",
+        "score_tags",
+        "doi_clean",
+        "rank",
+        "is_pfas_specific",
+        "has_trophic_level",
+        "has_concentration_matrix",
+        "keep_for_extraction",
+        "exclude_reason"
+      ]
+    }
+  ],
+  "table5": {
+    "records": 441,
+    "endpoints": {
+      "BMF": 343,
+      "BSAF": 86,
+      "BAF (or log BAF)": 12
+    },
+    "pfas_labels": 25,
+    "studies": 2
+  },
+  "tmf_excluded": [
+    {
+      "record_id": "TMF0028",
+      "PFAS": "ΣPFAS",
+      "study_id": "ST008",
+      "DOI": "10.1016/j.envpol.2022.119739",
+      "exclusion_reason": "abbreviation_not_resolved_by_historical_mapper"
+    },
+    {
+      "record_id": "TMF0040",
+      "PFAS": "FBSA",
+      "study_id": "ST008",
+      "DOI": "10.1016/j.envpol.2022.119739",
+      "exclusion_reason": "abbreviation_not_resolved_by_historical_mapper"
+    },
+    {
+      "record_id": "TMF0044",
+      "PFAS": "6:2 diPAP",
+      "study_id": "ST008",
+      "DOI": "10.1016/j.envpol.2022.119739",
+      "exclusion_reason": "abbreviation_not_resolved_by_historical_mapper"
+    }
+  ],
+  "sar_subset": {
+    "rows": 2661,
+    "distinct_raw_smiles": 2488,
+    "rule": "valid predictions; class substring mapping to PFCA/PFSA/FASA/FTOH/Ether-PFAS; SMILES literal C(F)(F) count 3..18",
+    "limitation": "SMILES string pattern is representation dependent and is not a validated chain-length definition"
+  },
+  "unsupported_847": {
+    "status": "literal_not_calculated",
+    "evidence": [
+      "code/data/result/make_result_tables.py:156",
+      "code/data/result/discussion2/make_NC_paper_v2.py:234"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "status": "frozen before corrected external fits",
+  "interpretation": "retrospective sources already examined in previous revisions; not an untouched prospective test",
+  "modes": [
+    "source_transfer",
+    "strict_novel_chemical"
+  ],
+  "primary_training": "216 source-qualified records",
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "test_panel_union_exclusion": "Novel-in-bio subset removes all its IDs from both upstream stages; previously seen chemicals evaluated separately using compound-held-out folds",
+  "endpoints": "Source-designated endpoint and tissue retained; Sims short-term aqueous ratio is not regulatory steady-state BCF",
+  "panel_sha256": "66503d3414adf7f94059aa3e2b8829afe35e794861a625faf89193038b034268"
+}

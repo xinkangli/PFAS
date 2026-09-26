@@ -1,0 +1,31 @@
+{
+  "status": "fixed before corrected downstream results",
+  "baseline": "/DATA/lxk/lxkzero/claude/qd/data/nc/revision/v15_validation_20260924",
+  "primary_records": 216,
+  "changed_context_records": 80,
+  "remaining_mixed_assemblage_unknown": 7,
+  "primary_jobs": 21,
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "main_endpoint": "BAF",
+  "secondary_endpoint": "BCF",
+  "main_models": [
+    "full_multitask",
+    "structure_context",
+    "transport_context",
+    "extra_trees_structure_context"
+  ],
+  "key_ablations": [
+    "full_single_task",
+    "shuffled_auxiliary_labels"
+  ],
+  "other_original_baselines": "retained, not selected away",
+  "new_hyperparameter_search": false,
+  "source_and_chemical_splits": "unchanged from V15",
+  "external_panels": "previously examined retrospective only",
+  "upstream_reuse": "all input_signature components copied byte-for-byte; changed final_observations organism_group is not an upstream input",
+  "data_sha256": "650f5cde36b4ec997174bcd7687f28f3a3d615a22cade624df48498b0b8597b5"
+}
