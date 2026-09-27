@@ -1,9 +1,0 @@
-seed,endpoint,nominal,calibration_compounds,test_compounds,test_records,rank,radius_multiplier,record_coverage,chemical_bundle_coverage,mean_width,finite
-44,BAF,0.5,8,4,41,5,4.908599481425311,0.5609756097560976,0.5,2.9257367295845262,True
-44,BAF,0.8,8,4,41,8,8.367434285515431,0.975609756097561,0.75,4.9873512626474925,True
-44,BAF,0.9,8,4,41,9,inf,1.0,1.0,inf,False
-44,BAF,0.95,8,4,41,9,inf,1.0,1.0,inf,False
-44,BCF,0.5,6,2,12,4,4.503625615725695,1.0,1.0,2.244404555942688,True
-44,BCF,0.8,6,2,12,6,5.620530781461841,1.0,1.0,2.8010198824434003,True
-44,BCF,0.9,6,2,12,7,inf,1.0,1.0,inf,False
-44,BCF,0.95,6,2,12,7,inf,1.0,1.0,inf,False

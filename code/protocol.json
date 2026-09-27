@@ -1,0 +1,32 @@
+{
+  "endpoints": [
+    "BAF",
+    "BCF"
+  ],
+  "observations": 216,
+  "compounds": 19,
+  "studies": 6,
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "chemical_folds": 5,
+  "source_holdouts": 6,
+  "similarity_components": 7,
+  "similarity_threshold": 0.7,
+  "optimizer": "Adam",
+  "pretrain_epochs": 40,
+  "auxiliary_epochs": 400,
+  "biological_epochs": 120,
+  "hyperparameter_selection": "fixed settings; no grid search or test-selected early stopping",
+  "dropout_inference": "Dropout stochastic, BatchNorm in eval mode",
+  "metrics": [
+    "chemical_MAE",
+    "MAE",
+    "RMSE",
+    "R2",
+    "Spearman"
+  ],
+  "external_evaluation": "retrospective, endpoint-specific"
+}

@@ -1,8 +1,0 @@
-{
-  "purpose": "EST resubmission reanalysis with fixed BatchNorm during all MC-dropout inference",
-  "data_and_partitions": "Copied without modification from WR core; no new biological observations",
-  "change": "Use eval mode globally, enable only torch.nn.Dropout modules for stochastic forward passes",
-  "upstream_cache": "No old caches copied; all upstream stages refitted under the corrected code",
-  "hyperparameters": "unchanged",
-  "prior_result_exposure": "Retrospective reanalysis; existing results were known before this implementation correction"
-}

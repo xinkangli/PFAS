@@ -1,7 +1,0 @@
-resource_A,resource_B,compounds_A,compounds_B,intersection_before_exclusion
-biological_primary,silver_pretraining,19,62624,0
-biological_primary,external_union,19,36,17
-auxiliary,biological_primary,24,19,16
-auxiliary,silver_pretraining,24,62624,0
-auxiliary,external_union,24,36,22
-external_union,silver_pretraining,36,62624,0

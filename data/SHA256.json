@@ -1,0 +1,18 @@
+{
+  "data/auxiliary_original_long.csv": "3d4dd6e4dc34123bea17fb656f7c5091eef2d55f5c64c24870b9ddf90e1c136b",
+  "data/auxiliary_wide.csv": "ee070df4034f90ab3fb7599d3cc035c8e61bb7f8d07eadbc89578756e439370e",
+  "data/external_panel.csv": "66503d3414adf7f94059aa3e2b8829afe35e794861a625faf89193038b034268",
+  "data/features_graph_corrected.npz": "96019a5292894b2fd952f3e79c57a34e8e99c8fef8da5a441c1dbbe44aabfdfd",
+  "data/final_jobs.json": "0952f17681758b366eb5a89cc843893ba75871510857059d425916196cfeae3a",
+  "data/final_observations.csv": "d5c7abef01d6792aaca7f482f05746c94f58fd0a4a7ade1d169c3fc30bcfb134",
+  "data/opera_source_matched_records.csv": "aec0cce335aecb74678e53445632fbbefa21a57024c2ec99d0f7bf819f50ba7b",
+  "data/README.md": "b973f052b97ac110e97d99dbe1e5731d161dbd9ccd6d46d7d6cd277a257e60e2",
+  "data/silver_training.csv": "e5fd0be3ea3db631441fa271f5c5b1c4ac198bc8e7013385ce0349edadab8612",
+  "data/similarity_jobs.json": "d41059e8572603eaf6cd1bb38d8cb26daab50fbcc3cabae0ebe66e627ddc13ac",
+  "data/raw/bioaccumulation_workbook.xlsx": "3d7bc6f8cd02b1fd2ef61143f3f2b98090c1f1335f85452b64f9002f0bf66cb7",
+  "data/raw/ITRC_aquatic.xlsx": "bfc24df5dbd2d21341a9580e5053f7a7b89c1ddea1ebe75c55407f4cee27a54d",
+  "data/raw/transport_workbook.xlsx": "46239832c2872da9fc2ad8fa45deda94b15f2a5b1088d25c2c5073448363ffdc",
+  "data/sources/all_1078_disposition.csv": "3858bc9579294f9aa6bd2fc4c162759c407823b425adcbca690a344306471ae1",
+  "data/sources/historical_training_filter_counts.csv": "0d2bd58033366054cbbb79e99263512eb634c09e52a61a490d3df45ba59a117b",
+  "data/sources/literature_queries.json": "9eba968b162a2e52f484167a595eaf8f7218a62b90c2e18e2508106a373c3596"
+}

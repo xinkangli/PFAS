@@ -1,7 +1,0 @@
-{
-  "rows": 324,
-  "models": 9,
-  "max_absolute_prediction_difference": 4.440892098500626e-16,
-  "comparison": "Independent portable fresh fit versus complete corrected reference run",
-  "same_results_within_1e-5": true
-}
